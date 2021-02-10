@@ -1,0 +1,6 @@
+{
+  "name": "packaged/polyfill-ctype",
+  "license": "MIT",
+  "require": {
+  }
+}
