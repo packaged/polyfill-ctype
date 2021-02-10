@@ -2,5 +2,9 @@
   "name": "packaged/polyfill-ctype",
   "license": "MIT",
   "require": {
+    "ext-ctype": "*"
+  },
+  "replace": {
+    "symfony/polyfill-ctype": "*"
   }
 }
